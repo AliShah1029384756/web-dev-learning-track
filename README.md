@@ -1,59 +1,34 @@
 # Web Dev Learning Track
 
-A structured, self-guided roadmap for learners progressing from fundamentals to full-stack basics.
+![Track](https://img.shields.io/badge/Track-Structured%20Learning-0ea5e9)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-16a34a)
 
-## Audience
-- Beginners starting from zero
-- CS students revising practical concepts
-- Self-learners building portfolio-ready projects
+Structured, self-guided roadmap for learners progressing from fundamentals to frontend and backend basics.
 
-## Track Flow
-1. Beginner Stage
-2. Intermediate Stage
-3. Advanced Stage
-4. CS Revision Stage
+---
 
-## Beginner Stage
-- Calculator
-- Todo App
-- Notes App
+## At a Glance
 
-Focus:
-- HTML/CSS structure
-- JavaScript fundamentals
-- DOM events and state
+| Stage | Projects | Primary Focus |
+|---|---|---|
+| Beginner | Calculator, Todo App, Notes App | HTML/CSS structure, JavaScript basics, DOM events |
+| Intermediate | Quiz App, Expense Tracker, Portfolio | Dynamic rendering, state logic, responsive UI |
+| Advanced | Weather App, REST API | API integration, async flows, backend validation |
+| CS Revision | DSA, system design, consistency practice | Interview and architecture preparation |
 
-## Intermediate Stage
-- Quiz App
-- Expense Tracker
-- Portfolio
-
-Focus:
-- Dynamic rendering
-- Data transformations
-- Responsive UI organization
-
-## Advanced Stage
-- Weather App
-- REST API
-
-Focus:
-- External API integration
-- Async JavaScript
-- Backend routing and validation
-
-## CS Revision Stage
-- Data structures and algorithms patterns
-- Problem-solving consistency
-- System design basics
+---
 
 ## Recommended Study Method
+
 1. Build one project end-to-end.
-2. Document what you learned.
-3. Improve code quality and edge-case handling.
-4. Repeat with higher complexity.
+2. Document what you learned in each stage.
+3. Improve code quality, edge cases, and readability.
+4. Move to the next stage only after polishing the current one.
+
+---
 
 ## Related Repositories
+
 - https://github.com/AliShah1029384756/calculator
 - https://github.com/AliShah1029384756/todo-app
 - https://github.com/AliShah1029384756/notes-app
