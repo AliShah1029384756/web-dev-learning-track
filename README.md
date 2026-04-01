@@ -88,7 +88,6 @@ Use resources with project context, not as disconnected reading lists.
 ## Screenshots and Demo
 
 - Portfolio case-study page: https://alishah1029384756.github.io/AliShah1029384756/projects/webtrack.html
-- Module visuals can be added per folder with task-specific captions
 
 ## Outcomes and Learning
 
