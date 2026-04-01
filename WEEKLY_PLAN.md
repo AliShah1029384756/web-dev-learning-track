@@ -1,42 +1,25 @@
-# Weekly Plan (12 Weeks)
+﻿# Weekly Plan (Master Track)
 
-## Weeks 1-2: Foundations
-- HTML semantics
-- CSS layout (Flexbox, Grid)
-- JavaScript basics
-- Build: Calculator
+## Week 1-2: Core Frontend Discipline
+- Component structure, state strategy, accessibility basics
+- Build: polished dashboard UI + reusable design system
 
-## Weeks 3-4: CRUD and State
-- Arrays, objects, and methods
-- DOM update patterns
-- localStorage persistence
-- Build: Todo App, Notes App
+## Week 3-4: Backend and API Reliability
+- Auth patterns, validation, service layer, error contracts
+- Build: production-style REST API with role-based endpoints
 
-## Weeks 5-6: Logic and UX
-- Conditional flows
-- Timers and user feedback
-- Data summaries
-- Build: Quiz App, Expense Tracker
+## Week 5-6: Data and Query Modeling
+- Schema decisions, indexing patterns, migration-safe changes
+- Build: analytics-ready persistence model
 
-## Weeks 7-8: Presentation and Branding
-- Responsive portfolio sections
-- Project storytelling
-- README writing
-- Build: Portfolio
+## Week 7-8: Testing and Security
+- Unit, integration, and smoke tests
+- Input validation, auth boundary testing, rate limit strategy
 
-## Weeks 9-10: APIs and Async
-- Fetch and async/await
-- Error handling patterns
-- Environment-safe API usage
-- Build: Weather App
+## Week 9-10: DevOps and Deployment
+- CI pipelines, environment strategy, release checklist
+- Build: staging + production deployment workflow
 
-## Weeks 11-12: Backend Fundamentals
-- Express routing
-- CRUD APIs
-- Status codes and validation
-- Build: REST API
-
-## Continuous Practice
-- Solve 3-5 DS/Algo problems per week
-- Improve one old project every weekend
-- Keep changelogs and concise commit messages
+## Week 11-12: Open Source and Career Packaging
+- Meaningful PRs, issue triage, docs contributions
+- Build: public contribution log and project case studies
