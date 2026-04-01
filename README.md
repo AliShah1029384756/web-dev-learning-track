@@ -85,6 +85,14 @@ Primary references are maintained in `resources/awesome-links.md` and grouped by
 
 Use resources with project context, not as disconnected reading lists.
 
+## Recommended Material
+
+- [roadmap.sh](https://roadmap.sh) - Structured role and skill progression maps
+- [MDN Web Docs](https://developer.mozilla.org/) - Frontend and browser API reference
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Security best practices
+- [Martin Fowler](https://martinfowler.com/) - Design, refactoring, and architecture guidance
+- [goodfirstissue.dev](https://goodfirstissue.dev) - Open source contribution discovery
+
 ## Screenshots and Demo
 
 - Portfolio case-study page: https://alishah1029384756.github.io/AliShah1029384756/projects/webtrack.html
